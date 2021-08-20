@@ -1,0 +1,98 @@
+Web Development Roadmap
+To start a career in the web development field, you need to choose either front-end web development and back-end web development or you can choose both if you want to be a full-stack developer. Here we will discuss both paths. First, we will talk about what things you should learn and use to go on either path. 
+
+Here are some core technologies and tools you need to learn for both frontend and backend roadmap tasks.
+
+Git -
+One of the most popular version control systems. It's not possible to live without Git anymore. Git is a software for tracking changes in any set of files, usually used for coordinating work among programmers. It’s goals include speed, data integrity and non-linear workflows.
+
+SSH -
+SSH stands for Secure Shell. It is a Cryptographic Network Protocol for operating network services securely over an unsecured network. Typically applications include Remote Command Line, Login and Remote Command Execution. Every network service can be secured with SSH.
+
+It is a popular networking concept every web developer should know.
+
+HTTP/HTTPS -
+HTTP stands for Hypertext Transfer Protocol and HTTPS stands for Hypertext Transfer Protocol Secure. 
+
+Hypertext Transfer Protocol Secure is an Extension of Hyper Transfer Protocol. It is widely used over the Internet. For Secure Communication over a computer network, HTTPS is a good way to communicate. HTTP Protocol is the Backbone of the web, and to be a Web Developer you should have good knowledge of both HTTP and HTTPS.
+
+Linux Command - Basic Terminal Uses -
+Linux command is the utility of the Linux Operating System. All basic and advanced tasks can be done by executing commands. The commands are executed on the Linux Terminal. The terminal is a Command Line Interface. It is used to interact with the system, it is similar to Command Prompt in Windows.
+
+Not just a Web Developer but for any Programmer, Command Line is a very important factor.
+
+Data Structures & Algorithms -
+A Data Structure is a named location which can be used to store and organize data. An Algorithm is a collection of steps which help you to solve a problem. Learning Data Structure and Algorithms allows us to write efficient and optimized computer programs
+
+These are the building blocks for every program and better knowledge of data structure and algorithm. It is vital for your next jobs and or doing well at your current job..
+
+Character Encoding -
+If you are creating global applications that show information in many different languages, across the world. You should have a good knowledge of character encoding. 
+
+Character Encoding is used in Computing, Data Storage and Data Transmission to represent a collection of characters by some kind of encoding system. This technique assigns a number to each character for digital representation.
+
+Github -
+There is no doubt that every developer or programmers use Github and Git for getting code information and give some mock tests to check the performance in coding.
+
+Both Git and Github are the standard terms in code repositories.
+
+Github is a provider of internet hosting for software development and version control using Git. It offers the Distributed Version Control and Source Code management functionality.
+
+Now we will discuss both the roadmaps, step by step.
+Frontend Developer Roadmap -
+If you want to become a Frontend Developer then you should have knowledge in some coding technologies.
+
+In the starting phase you should have knowledge about some basics of HTML, CSS and JavaScript. In HTML you should know about the basics of html, semantic html, basic seo and accessibility. In CSS you should know about the basics of css, making layout, media queries and also CSS3. You should know roots, positioning, display, box model, css grid and flex box.
+
+In JavaScript, you should have a knowledge about syntax and basic constructs, learn dom manipulation, learn fetch api, ajax, ecmascript 6 and modular javascript.
+
+After Javascripts, you need to start learning about Package Managers, in this you can learn npm and yarn. npm is the latest technology, but still behind yarn in some features. You can select one of them.
+
+After the package manager you have to learn about CSS Preprocessors, which should be SASS and PostCSS. And then you can learn about CSS Frameworks, in this you should know about Bootstrap 4. And then you can start learning about CSS Architecture, with modern frontend frameworks, there is more push towards CSS in JS methodologies.
+
+Now you can build tools, Task Runners, Module Bundlers, Linters and Formatters. In task runners, you can use npm scripts. In module bundlers, you can use webpack and rollers. 
+
+After all these steps complete you need to choose a Framework, it should be Reactjs, Angular and Vue.js. Then use CSS in JS and then test your apps.
+
+Web Development Basics -
+It's pretty apparent that if you want to become a web developer, then you should know the basics of the internet, web applications, protocols like http. In general you have knowledge about web development.
+
+HTML and CSS -
+HTML and CSS are the backbones of any website, html provides the structure and css provides the style and helps them to look better. If you want to become a serious frontend developer then you must master these two. 
+
+JavaScript -
+Just like the four pillars of object oriented programming, encapsulation, abstraction, polymorphism and inheritance. Web Development has three pillars, which are HTML, CSS and JavaScript.
+
+HTML and CSS provide structure and style but Javascript makes them alive by adding Interactiveness.
+
+TypeScript -
+Just like in programming, we should know about C and C++, the same as TypeScript, which is considered as JavaScript++. 
+
+TypeScript is also a programming language developed by Microsoft and also maintained by Microsoft. It is a superset of JavaScript. It is designed for the development of large applications. 
+
+Angular -
+Angular is a web application framework. It is a typescript based free and open source framework. It is developed by the Angular Team of Google. Angular is an enhanced form of AngularJS, it is completely rewrite.
+
+In the starting phase you should have knowledge about HTML, CSS and JavaScript. But these days, most of them work on Angular, Vue.js, Reactjs and Typescript.
+
+They provide short and simple code which consumes low storage.
+
+Reactjs - 
+Like Angular, Reactjs is also a very popular library to develop web applications. Reactjs is developed and maintained by Facebook Team. Most people work on reactjs instead of php and other programming languages.
+
+Reactjs is an enhanced form of PHP and we can also include HTML, CSS and JavaScript.
+
+Backend Web Developer Roadmap -
+To become a backend web developer, you need to know about some languages. So the first step is to pick a language. It should be Functional Language and Scripting Language. In functional language you need to learn about Java and .Net and Scripting languages like Python, Ruby, PHP, Node.js and Typescript. 
+
+And after learning about these languages, you need to start doing practice, as a beginner you need to do practice. Implement those commands you have learned. Learn about the Package manager and start implementing this. Learn about Testing and Bug Fixing. Start knowing about Relational Database and Framework. You can learn MongoDB Database, it is enough to know about databases and uses of databases. Then start gaining knowledge of Web Server like Apache. 
+
+Node.js -
+Same as reactjs, node.js is mostly used by maximum web developers. Like reactjs, node.js allows you to make complete web applications using a single language which is Node.js.
+
+Java -
+Mostly in the starting phase, people start learning about java. And almost all made their first application using java. Java is a very old language but its popularity is not gone till now like C. Java provides 99% features of object oriented programming.
+
+Python -
+Python is a trending Language, you should have a focus on python if you know all the above languages basics. You can make your career bright by learning Python. If you want to develop the back end code using python then you can use Django. It is a Full Stack Web Development Framework for Python Programmers.
+
